@@ -1,0 +1,1 @@
+print("Welcome students we are going to learn python language.") #welcoming students to learn python 
