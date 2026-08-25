@@ -1,0 +1,11 @@
+a=31
+b=19
+print(a+b)
+a=32
+b=18
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a%b)
+print(a**b)
