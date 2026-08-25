@@ -1,0 +1,10 @@
+student_name="Lavya"
+student_age=18
+student_height=5.9
+person_is_student_or_not=True
+student_result=None 
+print(type(student_name))
+print(type(student_age))
+print(type(student_height))
+print(type(person_is_student_or_not))
+print(type(student_result))

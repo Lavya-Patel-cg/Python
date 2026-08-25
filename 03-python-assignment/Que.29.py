@@ -1,0 +1,10 @@
+name="product"
+quantity=100
+price=25.6
+it_is_available=True
+discount=None
+print(type(name))
+print(type(quantity))
+print(type(price))
+print(type(it_is_available))
+print(type(discount))

@@ -1,0 +1,14 @@
+value=10
+Value=10.0
+VAlue="10"
+Answer=True
+ANswer="True"
+Result=None
+REsult="None"
+print(type(value))
+print(type(Value))
+print(type(VAlue))
+print(type(Answer))
+print(type(ANswer))
+print(type(Result))
+print(type(REsult))
