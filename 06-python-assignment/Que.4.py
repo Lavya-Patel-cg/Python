@@ -1,0 +1,1 @@
+#In Python, the input() function always returns a string (str) by default.

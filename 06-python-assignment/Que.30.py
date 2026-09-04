@@ -1,0 +1,5 @@
+name=input("Enter your name:-")
+age=int(input("Enter your age:-"))
+height=float(input("Enter your height:-"))
+city=input("Enter your city name:-")
+print(f"His name is {name} He is {age} years old His height is {height:.2f} , he lives at {city}")
