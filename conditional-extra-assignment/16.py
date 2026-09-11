@@ -1,4 +1,4 @@
-a=int(input("Enter units of electricity used:-"))
+a=float(input("Enter units of electricity used:-"))
 if a<=100:
     amount=a*5
     print("Bill:-", amount)
